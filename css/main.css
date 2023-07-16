@@ -1,0 +1,8 @@
+h1{
+    font-size: 5rem;
+    font-weight: 900;
+    text-shadow: 5px 5px 5px rgba(128, 128, 128, 0.596);
+}
+button:hover{
+    background-color: #0088a3 !important;
+}
